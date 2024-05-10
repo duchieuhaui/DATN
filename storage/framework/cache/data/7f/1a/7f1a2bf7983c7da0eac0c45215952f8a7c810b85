@@ -1,0 +1,8 @@
+9999999999s:293:"
+            <h1>Hello [first_name]!</h1>
+            <p>New order has been made:</p>
+            <p>User ID: [create_user]</p>
+            <p>Amount: [amount]</p>
+            <p>Credit: [credit]</p>
+            <p>Gateway: [payment_gateway]</p>
+            <p>Regards,<br>My Travel</p>";

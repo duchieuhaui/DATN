@@ -1,0 +1,2 @@
+<?php echo $__env->make("Layout::admin.app", \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH C:\xampp\htdocs\mytravel.2.4.0\resources\views/admin/layouts/app.blade.php ENDPATH**/ ?>

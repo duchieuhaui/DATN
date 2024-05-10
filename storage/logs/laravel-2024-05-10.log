@@ -1,0 +1,3462 @@
+[2024-05-10 02:56:22] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: contact@mytravel.com
+Subject: [My Travel] New booking has been made
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 02:56:22 +0000
+Message-ID: <a539eaadbc5b8080eae0f2bc54b1110e@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+           =20
+    <div class=3D"b-container">
+        <div class=3D"b-panel">
+                                <h3 class=3D"email-headline"><strong>Hello =
+Administrator</strong></h3>
+                    <p>New booking has been made</p>
+               =20
+            <div class=3D"b-panel-title">Tour information</div>
+<div class=3D"b-table-wrap">
+    <table class=3D"b-table" cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+            <td class=3D"label">Booking Number</td>
+            <td class=3D"val">#5</td>
+        </tr>
+        <tr>
+            <td class=3D"label">Booking Status</td>
+            <td class=3D"val">Unpaid</td>
+        </tr>
+                    <tr>
+                <td class=3D"label">Payment method</td>
+                <td class=3D"val">Paypal</td>
+            </tr>
+                        <tr>
+            <td class=3D"label">Tour name</td>
+            <td class=3D"val">
+                <a href=3D"http://127.0.0.1:8000/tour/cannes-and-antibes-ni=
+ght-tour">Cannes and Antibes Night Tour</a>
+            </td>
+
+        </tr>
+        <tr>
+                            <td class=3D"label">Address</td>
+                <td class=3D"val">
+                    UCSF Helen Diller Family
+                </td>
+                    </tr>
+                    <tr>
+                <td class=3D"label">Start date</td>
+                <td class=3D"val">05/11/2024</td>
+            </tr>
+
+            <tr>
+                <td class=3D"label">Duration:</td>
+                <td class=3D"val">
+                    5 hours
+                </td>
+            </tr>
+       =20
+       =20
+                                    <tr>
+                    <td class=3D"label">Adult:</td>
+                    <td class=3D"val">
+                        <strong>1</strong>
+                    </td>
+                </tr>
+                            <tr>
+            <td class=3D"label">Pricing</td>
+            <td class=3D"val no-r-padding">
+                <table class=3D"pricing-list" width=3D"100%">
+                   =20
+                                                                        <tr=
+>
+                                <td class=3D"label">Adult: 1 * $1.000</td>
+                                <td class=3D"val no-r-padding">
+                                    <strong>$1.000</strong>
+                                </td>
+                            </tr>
+                                           =20
+                   =20
+                                            <tr>
+                            <td colspan=3D"2" class=3D"label-title"><strong=
+>Extra Prices:</strong></td>
+                        </tr>
+                        <tr class=3D"">
+                            <td colspan=3D"2" class=3D"no-r-padding no-b-bo=
+rder">
+                                <table width=3D"100%">
+                                                                    <tr>
+                                        <td class=3D"label">Clean:</td>
+                                        <td class=3D"val no-r-padding">
+                                            <strong>$100</strong>
+                                        </td>
+                                    </tr>
+                                                                </table>
+                            </td>
+                        </tr>
+
+                   =20
+                                       =20
+                                                                           =
+                                             <tr>
+                                <td class=3D"label">
+                                    Service fee
+                                    <i class=3D"icofont-info-circle" data-t=
+oggle=3D"tooltip" data-placement=3D"top" title=3D"This helps us run our pla=
+tform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class=3D"val">
+                                                                           =
+ $100
+                                                                    </td>
+                            </tr>
+                                                                           =
+     </table>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Total</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Paid</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$0</st=
+rong></td>
+        </tr>
+                    <tr>
+                <td class=3D"label fsz21">Remain</td>
+                <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1=
+.200</strong></td>
+            </tr>
+            </table>
+</div>
+<div class=3D"text-center mt20">
+    <a href=3D"http://127.0.0.1:8000/user/booking-history" target=3D"_blank=
+" class=3D"btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class=3D"b-panel">
+    <div class=3D"b-panel-title">Customer information</div>
+    <div class=3D"b-table-wrap">
+        <div class=3D"b-table b-table-div">
+            <div class=3D"info-first-name b-tr">
+                <div class=3D"label">First name</div>
+                <div class=3D"val">admin@gmail.com</div>
+            </div>
+            <div class=3D"info-last-name b-tr" style=3D"clear: both">
+                <div class=3D"label">Last name</div>
+                <div class=3D"val">Hi=E1=BA=BFu</div>
+            </div>
+            <div class=3D"info-email b-tr">
+                <div class=3D"label">Email</div>
+                <div class=3D"val">admin@gmail.com</div>
+            </div>
+            <div class=3D"info-phone b-tr">
+                <div class=3D"label">Phone</div>
+                <div class=3D"val">0382950492</div>
+            </div>
+            <div class=3D"info-address b-tr">
+                <div class=3D"label">Address line 1</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-address2 b-tr">
+                <div class=3D"label">Address line 2</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-city b-tr">
+                <div class=3D"label">City</div>
+                <div class=3D"val">T=E1=BB=AB S=C6=A1n</div>
+            </div>
+            <div class=3D"info-state b-tr">
+                <div class=3D"label">State/Province/Region</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-zip-code b-tr">
+                <div class=3D"label">ZIP code/Postal code</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-country b-tr">
+                <div class=3D"label">Country</div>
+                <div class=3D"val">Viet Nam</div>
+            </div>
+            <div class=3D"info-notes b-tr">
+                <div class=3D"label">Special Requirements</div>
+                <div class=3D"val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 02:56:23] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: Customer 01 <customer1@mytravel.test>
+Subject: [My Travel] Your service got new booking
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 02:56:23 +0000
+Message-ID: <e2d2cacd4fb2a1fa375c82e9d05f4557@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+           =20
+    <div class=3D"b-container">
+        <div class=3D"b-panel">
+                                <h3 class=3D"email-headline"><strong>Hello =
+Customer</strong></h3>
+                    <p>Your service has new booking</p>
+               =20
+            <div class=3D"b-panel-title">Tour information</div>
+<div class=3D"b-table-wrap">
+    <table class=3D"b-table" cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+            <td class=3D"label">Booking Number</td>
+            <td class=3D"val">#5</td>
+        </tr>
+        <tr>
+            <td class=3D"label">Booking Status</td>
+            <td class=3D"val">Unpaid</td>
+        </tr>
+                    <tr>
+                <td class=3D"label">Payment method</td>
+                <td class=3D"val">Paypal</td>
+            </tr>
+                        <tr>
+            <td class=3D"label">Tour name</td>
+            <td class=3D"val">
+                <a href=3D"http://127.0.0.1:8000/tour/cannes-and-antibes-ni=
+ght-tour">Cannes and Antibes Night Tour</a>
+            </td>
+
+        </tr>
+        <tr>
+                            <td class=3D"label">Address</td>
+                <td class=3D"val">
+                    UCSF Helen Diller Family
+                </td>
+                    </tr>
+                    <tr>
+                <td class=3D"label">Start date</td>
+                <td class=3D"val">05/11/2024</td>
+            </tr>
+
+            <tr>
+                <td class=3D"label">Duration:</td>
+                <td class=3D"val">
+                    5 hours
+                </td>
+            </tr>
+       =20
+       =20
+                                    <tr>
+                    <td class=3D"label">Adult:</td>
+                    <td class=3D"val">
+                        <strong>1</strong>
+                    </td>
+                </tr>
+                            <tr>
+            <td class=3D"label">Pricing</td>
+            <td class=3D"val no-r-padding">
+                <table class=3D"pricing-list" width=3D"100%">
+                   =20
+                                                                        <tr=
+>
+                                <td class=3D"label">Adult: 1 * $1.000</td>
+                                <td class=3D"val no-r-padding">
+                                    <strong>$1.000</strong>
+                                </td>
+                            </tr>
+                                           =20
+                   =20
+                                            <tr>
+                            <td colspan=3D"2" class=3D"label-title"><strong=
+>Extra Prices:</strong></td>
+                        </tr>
+                        <tr class=3D"">
+                            <td colspan=3D"2" class=3D"no-r-padding no-b-bo=
+rder">
+                                <table width=3D"100%">
+                                                                    <tr>
+                                        <td class=3D"label">Clean:</td>
+                                        <td class=3D"val no-r-padding">
+                                            <strong>$100</strong>
+                                        </td>
+                                    </tr>
+                                                                </table>
+                            </td>
+                        </tr>
+
+                   =20
+                                       =20
+                                                                           =
+                                             <tr>
+                                <td class=3D"label">
+                                    Service fee
+                                    <i class=3D"icofont-info-circle" data-t=
+oggle=3D"tooltip" data-placement=3D"top" title=3D"This helps us run our pla=
+tform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class=3D"val">
+                                                                           =
+ $100
+                                                                    </td>
+                            </tr>
+                                                                           =
+     </table>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Total</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Paid</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$0</st=
+rong></td>
+        </tr>
+                    <tr>
+                <td class=3D"label fsz21">Remain</td>
+                <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1=
+.200</strong></td>
+            </tr>
+            </table>
+</div>
+<div class=3D"text-center mt20">
+    <a href=3D"http://127.0.0.1:8000/user/booking-history" target=3D"_blank=
+" class=3D"btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class=3D"b-panel">
+    <div class=3D"b-panel-title">Customer information</div>
+    <div class=3D"b-table-wrap">
+        <div class=3D"b-table b-table-div">
+            <div class=3D"info-first-name b-tr">
+                <div class=3D"label">First name</div>
+                <div class=3D"val">admin@gmail.com</div>
+            </div>
+            <div class=3D"info-last-name b-tr" style=3D"clear: both">
+                <div class=3D"label">Last name</div>
+                <div class=3D"val">Hi=E1=BA=BFu</div>
+            </div>
+            <div class=3D"info-email b-tr">
+                <div class=3D"label">Email</div>
+                <div class=3D"val">admin@gmail.com</div>
+            </div>
+            <div class=3D"info-phone b-tr">
+                <div class=3D"label">Phone</div>
+                <div class=3D"val">0382950492</div>
+            </div>
+            <div class=3D"info-address b-tr">
+                <div class=3D"label">Address line 1</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-address2 b-tr">
+                <div class=3D"label">Address line 2</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-city b-tr">
+                <div class=3D"label">City</div>
+                <div class=3D"val">T=E1=BB=AB S=C6=A1n</div>
+            </div>
+            <div class=3D"info-state b-tr">
+                <div class=3D"label">State/Province/Region</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-zip-code b-tr">
+                <div class=3D"label">ZIP code/Postal code</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-country b-tr">
+                <div class=3D"label">Country</div>
+                <div class=3D"val">Viet Nam</div>
+            </div>
+            <div class=3D"info-notes b-tr">
+                <div class=3D"label">Special Requirements</div>
+                <div class=3D"val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 02:56:23] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: admin@gmail.com
+Subject: Thank you for booking with us
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 02:56:23 +0000
+Message-ID: <abcef12efab704e8158a5e7bda62294c@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+           =20
+    <div class=3D"b-container">
+        <div class=3D"b-panel">
+                                <h3 class=3D"email-headline"><strong>Hello =
+admin@gmail.com</strong></h3>
+                    <p>Thank you for booking with us. Here are your booking=
+ information:</p>
+               =20
+            <div class=3D"b-panel-title">Tour information</div>
+<div class=3D"b-table-wrap">
+    <table class=3D"b-table" cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+            <td class=3D"label">Booking Number</td>
+            <td class=3D"val">#5</td>
+        </tr>
+        <tr>
+            <td class=3D"label">Booking Status</td>
+            <td class=3D"val">Unpaid</td>
+        </tr>
+                    <tr>
+                <td class=3D"label">Payment method</td>
+                <td class=3D"val">Paypal</td>
+            </tr>
+                        <tr>
+            <td class=3D"label">Tour name</td>
+            <td class=3D"val">
+                <a href=3D"http://127.0.0.1:8000/tour/cannes-and-antibes-ni=
+ght-tour">Cannes and Antibes Night Tour</a>
+            </td>
+
+        </tr>
+        <tr>
+                            <td class=3D"label">Address</td>
+                <td class=3D"val">
+                    UCSF Helen Diller Family
+                </td>
+                    </tr>
+                    <tr>
+                <td class=3D"label">Start date</td>
+                <td class=3D"val">05/11/2024</td>
+            </tr>
+
+            <tr>
+                <td class=3D"label">Duration:</td>
+                <td class=3D"val">
+                    5 hours
+                </td>
+            </tr>
+       =20
+       =20
+                                    <tr>
+                    <td class=3D"label">Adult:</td>
+                    <td class=3D"val">
+                        <strong>1</strong>
+                    </td>
+                </tr>
+                            <tr>
+            <td class=3D"label">Pricing</td>
+            <td class=3D"val no-r-padding">
+                <table class=3D"pricing-list" width=3D"100%">
+                   =20
+                                                                        <tr=
+>
+                                <td class=3D"label">Adult: 1 * $1.000</td>
+                                <td class=3D"val no-r-padding">
+                                    <strong>$1.000</strong>
+                                </td>
+                            </tr>
+                                           =20
+                   =20
+                                            <tr>
+                            <td colspan=3D"2" class=3D"label-title"><strong=
+>Extra Prices:</strong></td>
+                        </tr>
+                        <tr class=3D"">
+                            <td colspan=3D"2" class=3D"no-r-padding no-b-bo=
+rder">
+                                <table width=3D"100%">
+                                                                    <tr>
+                                        <td class=3D"label">Clean:</td>
+                                        <td class=3D"val no-r-padding">
+                                            <strong>$100</strong>
+                                        </td>
+                                    </tr>
+                                                                </table>
+                            </td>
+                        </tr>
+
+                   =20
+                                       =20
+                                                                           =
+                                             <tr>
+                                <td class=3D"label">
+                                    Service fee
+                                    <i class=3D"icofont-info-circle" data-t=
+oggle=3D"tooltip" data-placement=3D"top" title=3D"This helps us run our pla=
+tform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class=3D"val">
+                                                                           =
+ $100
+                                                                    </td>
+                            </tr>
+                                                                           =
+     </table>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Total</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Paid</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$0</st=
+rong></td>
+        </tr>
+                    <tr>
+                <td class=3D"label fsz21">Remain</td>
+                <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1=
+.200</strong></td>
+            </tr>
+            </table>
+</div>
+<div class=3D"text-center mt20">
+    <a href=3D"http://127.0.0.1:8000/user/booking-history" target=3D"_blank=
+" class=3D"btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+        <div class=3D"b-panel">
+    <div class=3D"b-panel-title">Customer information</div>
+    <div class=3D"b-table-wrap">
+        <div class=3D"b-table b-table-div">
+            <div class=3D"info-first-name b-tr">
+                <div class=3D"label">First name</div>
+                <div class=3D"val">admin@gmail.com</div>
+            </div>
+            <div class=3D"info-last-name b-tr" style=3D"clear: both">
+                <div class=3D"label">Last name</div>
+                <div class=3D"val">Hi=E1=BA=BFu</div>
+            </div>
+            <div class=3D"info-email b-tr">
+                <div class=3D"label">Email</div>
+                <div class=3D"val">admin@gmail.com</div>
+            </div>
+            <div class=3D"info-phone b-tr">
+                <div class=3D"label">Phone</div>
+                <div class=3D"val">0382950492</div>
+            </div>
+            <div class=3D"info-address b-tr">
+                <div class=3D"label">Address line 1</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-address2 b-tr">
+                <div class=3D"label">Address line 2</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-city b-tr">
+                <div class=3D"label">City</div>
+                <div class=3D"val">T=E1=BB=AB S=C6=A1n</div>
+            </div>
+            <div class=3D"info-state b-tr">
+                <div class=3D"label">State/Province/Region</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-zip-code b-tr">
+                <div class=3D"label">ZIP code/Postal code</div>
+                <div class=3D"val"></div>
+            </div>
+            <div class=3D"info-country b-tr">
+                <div class=3D"label">Country</div>
+                <div class=3D"val">Viet Nam</div>
+            </div>
+            <div class=3D"info-notes b-tr">
+                <div class=3D"label">Special Requirements</div>
+                <div class=3D"val"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 02:56:24] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "admin@gmail.com Hi\u1ebfu has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"admin@gmail.com Hi\u1ebfu\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/report\/booking",
+    "idNotification": "47f8d2a9-b850-404b-8a61-304d5ed61618",
+    "socket": null
+}  
+[2024-05-10 02:56:24] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-2] with payload:
+{
+    "message": "admin@gmail.com Hi\u1ebfu has created new Booking",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/vendor\/booking-report",
+    "idNotification": "3f3a6804-60b1-4725-98b4-f889f60faa50",
+    "userId": 2,
+    "socket": null
+}  
+[2024-05-10 03:00:18] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: contact@mytravel.com
+Subject: [My Travel] The booking status has been updated
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 03:00:18 +0000
+Message-ID: <fa279431c5206deba8fb5dbbca067e44@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+           =20
+    <div class=3D"b-container">
+        <div class=3D"b-panel">
+                            <h3 class=3D"email-headline"><strong>Hello Admi=
+nistrator</strong></h3>
+                <p>The booking status has been updated</p>
+               =20
+            <div class=3D"b-panel-title">Tour information</div>
+<div class=3D"b-table-wrap">
+    <table class=3D"b-table" cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+            <td class=3D"label">Booking Number</td>
+            <td class=3D"val">#5</td>
+        </tr>
+        <tr>
+            <td class=3D"label">Booking Status</td>
+            <td class=3D"val">Paid</td>
+        </tr>
+                    <tr>
+                <td class=3D"label">Payment method</td>
+                <td class=3D"val">Paypal</td>
+            </tr>
+                        <tr>
+            <td class=3D"label">Tour name</td>
+            <td class=3D"val">
+                <a href=3D"http://127.0.0.1:8000/tour/cannes-and-antibes-ni=
+ght-tour">Cannes and Antibes Night Tour</a>
+            </td>
+
+        </tr>
+        <tr>
+                            <td class=3D"label">Address</td>
+                <td class=3D"val">
+                    UCSF Helen Diller Family
+                </td>
+                    </tr>
+                    <tr>
+                <td class=3D"label">Start date</td>
+                <td class=3D"val">05/11/2024</td>
+            </tr>
+
+            <tr>
+                <td class=3D"label">Duration:</td>
+                <td class=3D"val">
+                    5 hours
+                </td>
+            </tr>
+       =20
+       =20
+                                    <tr>
+                    <td class=3D"label">Adult:</td>
+                    <td class=3D"val">
+                        <strong>1</strong>
+                    </td>
+                </tr>
+                            <tr>
+            <td class=3D"label">Pricing</td>
+            <td class=3D"val no-r-padding">
+                <table class=3D"pricing-list" width=3D"100%">
+                   =20
+                                                                        <tr=
+>
+                                <td class=3D"label">Adult: 1 * $1.000</td>
+                                <td class=3D"val no-r-padding">
+                                    <strong>$1.000</strong>
+                                </td>
+                            </tr>
+                                           =20
+                   =20
+                                            <tr>
+                            <td colspan=3D"2" class=3D"label-title"><strong=
+>Extra Prices:</strong></td>
+                        </tr>
+                        <tr class=3D"">
+                            <td colspan=3D"2" class=3D"no-r-padding no-b-bo=
+rder">
+                                <table width=3D"100%">
+                                                                    <tr>
+                                        <td class=3D"label">Clean:</td>
+                                        <td class=3D"val no-r-padding">
+                                            <strong>$100</strong>
+                                        </td>
+                                    </tr>
+                                                                </table>
+                            </td>
+                        </tr>
+
+                   =20
+                                       =20
+                                                                           =
+                                             <tr>
+                                <td class=3D"label">
+                                    Service fee
+                                    <i class=3D"icofont-info-circle" data-t=
+oggle=3D"tooltip" data-placement=3D"top" title=3D"This helps us run our pla=
+tform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class=3D"val">
+                                                                           =
+ $100
+                                                                    </td>
+                            </tr>
+                                                                           =
+     </table>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Total</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Paid</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+            </table>
+</div>
+<div class=3D"text-center mt20">
+    <a href=3D"http://127.0.0.1:8000/user/booking-history" target=3D"_blank=
+" class=3D"btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+    </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 03:00:18] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: Customer 01 <customer1@mytravel.test>
+Subject: [My Travel] The booking status has been updated
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 03:00:18 +0000
+Message-ID: <49195f13e2ed791d91d1f95a93ce4672@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+           =20
+    <div class=3D"b-container">
+        <div class=3D"b-panel">
+                            <h3 class=3D"email-headline"><strong>Hello Cust=
+omer</strong></h3>
+                <p>The booking status has been updated</p>
+               =20
+            <div class=3D"b-panel-title">Tour information</div>
+<div class=3D"b-table-wrap">
+    <table class=3D"b-table" cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+            <td class=3D"label">Booking Number</td>
+            <td class=3D"val">#5</td>
+        </tr>
+        <tr>
+            <td class=3D"label">Booking Status</td>
+            <td class=3D"val">Paid</td>
+        </tr>
+                    <tr>
+                <td class=3D"label">Payment method</td>
+                <td class=3D"val">Paypal</td>
+            </tr>
+                        <tr>
+            <td class=3D"label">Tour name</td>
+            <td class=3D"val">
+                <a href=3D"http://127.0.0.1:8000/tour/cannes-and-antibes-ni=
+ght-tour">Cannes and Antibes Night Tour</a>
+            </td>
+
+        </tr>
+        <tr>
+                            <td class=3D"label">Address</td>
+                <td class=3D"val">
+                    UCSF Helen Diller Family
+                </td>
+                    </tr>
+                    <tr>
+                <td class=3D"label">Start date</td>
+                <td class=3D"val">05/11/2024</td>
+            </tr>
+
+            <tr>
+                <td class=3D"label">Duration:</td>
+                <td class=3D"val">
+                    5 hours
+                </td>
+            </tr>
+       =20
+       =20
+                                    <tr>
+                    <td class=3D"label">Adult:</td>
+                    <td class=3D"val">
+                        <strong>1</strong>
+                    </td>
+                </tr>
+                            <tr>
+            <td class=3D"label">Pricing</td>
+            <td class=3D"val no-r-padding">
+                <table class=3D"pricing-list" width=3D"100%">
+                   =20
+                                                                        <tr=
+>
+                                <td class=3D"label">Adult: 1 * $1.000</td>
+                                <td class=3D"val no-r-padding">
+                                    <strong>$1.000</strong>
+                                </td>
+                            </tr>
+                                           =20
+                   =20
+                                            <tr>
+                            <td colspan=3D"2" class=3D"label-title"><strong=
+>Extra Prices:</strong></td>
+                        </tr>
+                        <tr class=3D"">
+                            <td colspan=3D"2" class=3D"no-r-padding no-b-bo=
+rder">
+                                <table width=3D"100%">
+                                                                    <tr>
+                                        <td class=3D"label">Clean:</td>
+                                        <td class=3D"val no-r-padding">
+                                            <strong>$100</strong>
+                                        </td>
+                                    </tr>
+                                                                </table>
+                            </td>
+                        </tr>
+
+                   =20
+                                       =20
+                                                                           =
+                                             <tr>
+                                <td class=3D"label">
+                                    Service fee
+                                    <i class=3D"icofont-info-circle" data-t=
+oggle=3D"tooltip" data-placement=3D"top" title=3D"This helps us run our pla=
+tform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class=3D"val">
+                                                                           =
+ $100
+                                                                    </td>
+                            </tr>
+                                                                           =
+     </table>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Total</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Paid</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+            </table>
+</div>
+<div class=3D"text-center mt20">
+    <a href=3D"http://127.0.0.1:8000/user/booking-history" target=3D"_blank=
+" class=3D"btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+    </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 03:00:18] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: admin@gmail.com
+Subject: Your booking status has been updated
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 03:00:18 +0000
+Message-ID: <89e402fd2973e98fdd4c0b1c6fd24d62@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+           =20
+    <div class=3D"b-container">
+        <div class=3D"b-panel">
+                            <h3 class=3D"email-headline"><strong>Hello admi=
+n@gmail.com</strong></h3>
+                <p>Your booking status has been updated</p>
+               =20
+            <div class=3D"b-panel-title">Tour information</div>
+<div class=3D"b-table-wrap">
+    <table class=3D"b-table" cellspacing=3D"0" cellpadding=3D"0">
+        <tr>
+            <td class=3D"label">Booking Number</td>
+            <td class=3D"val">#5</td>
+        </tr>
+        <tr>
+            <td class=3D"label">Booking Status</td>
+            <td class=3D"val">Paid</td>
+        </tr>
+                    <tr>
+                <td class=3D"label">Payment method</td>
+                <td class=3D"val">Paypal</td>
+            </tr>
+                        <tr>
+            <td class=3D"label">Tour name</td>
+            <td class=3D"val">
+                <a href=3D"http://127.0.0.1:8000/tour/cannes-and-antibes-ni=
+ght-tour">Cannes and Antibes Night Tour</a>
+            </td>
+
+        </tr>
+        <tr>
+                            <td class=3D"label">Address</td>
+                <td class=3D"val">
+                    UCSF Helen Diller Family
+                </td>
+                    </tr>
+                    <tr>
+                <td class=3D"label">Start date</td>
+                <td class=3D"val">05/11/2024</td>
+            </tr>
+
+            <tr>
+                <td class=3D"label">Duration:</td>
+                <td class=3D"val">
+                    5 hours
+                </td>
+            </tr>
+       =20
+       =20
+                                    <tr>
+                    <td class=3D"label">Adult:</td>
+                    <td class=3D"val">
+                        <strong>1</strong>
+                    </td>
+                </tr>
+                            <tr>
+            <td class=3D"label">Pricing</td>
+            <td class=3D"val no-r-padding">
+                <table class=3D"pricing-list" width=3D"100%">
+                   =20
+                                                                        <tr=
+>
+                                <td class=3D"label">Adult: 1 * $1.000</td>
+                                <td class=3D"val no-r-padding">
+                                    <strong>$1.000</strong>
+                                </td>
+                            </tr>
+                                           =20
+                   =20
+                                            <tr>
+                            <td colspan=3D"2" class=3D"label-title"><strong=
+>Extra Prices:</strong></td>
+                        </tr>
+                        <tr class=3D"">
+                            <td colspan=3D"2" class=3D"no-r-padding no-b-bo=
+rder">
+                                <table width=3D"100%">
+                                                                    <tr>
+                                        <td class=3D"label">Clean:</td>
+                                        <td class=3D"val no-r-padding">
+                                            <strong>$100</strong>
+                                        </td>
+                                    </tr>
+                                                                </table>
+                            </td>
+                        </tr>
+
+                   =20
+                                       =20
+                                                                           =
+                                             <tr>
+                                <td class=3D"label">
+                                    Service fee
+                                    <i class=3D"icofont-info-circle" data-t=
+oggle=3D"tooltip" data-placement=3D"top" title=3D"This helps us run our pla=
+tform and offer services like 24/7 support on your trip."></i>
+                                                                    </td>
+                                <td class=3D"val">
+                                                                           =
+ $100
+                                                                    </td>
+                            </tr>
+                                                                           =
+     </table>
+            </td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Total</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+        <tr>
+            <td class=3D"label fsz21">Paid</td>
+            <td class=3D"val fsz21"><strong style=3D"color: #FA5636">$1.200=
+</strong></td>
+        </tr>
+            </table>
+</div>
+<div class=3D"text-center mt20">
+    <a href=3D"http://127.0.0.1:8000/user/booking-history" target=3D"_blank=
+" class=3D"btn btn-primary manage-booking-btn">Manage Bookings</a>
+</div>
+        </div>
+    </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 03:00:18] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour has changed to paid",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"admin@gmail.com Hi\u1ebfu\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/report\/booking",
+    "idNotification": "02e4da26-7824-485c-bd64-3ab4e5e77b3e",
+    "socket": null
+}  
+[2024-05-10 03:00:19] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-2] with payload:
+{
+    "message": "Cannes and Antibes Night Tour has changed to paid",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Customer 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/vendor\/booking-report",
+    "idNotification": "a375ae54-2f00-4fe0-8879-cd6587ade036",
+    "userId": 2,
+    "socket": null
+}  
+[2024-05-10 03:00:19] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-6] with payload:
+{
+    "message": "Cannes and Antibes Night Tour has changed to paid",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"admin@gmail.com Hi\u1ebfu\">",
+    "link": "http:\/\/127.0.0.1:8000\/user\/booking-history",
+    "idNotification": "97e7c04f-8135-473f-a186-5f1675cbd837",
+    "userId": 6,
+    "socket": null
+}  
+[2024-05-10 03:16:07] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "admin@gmail.com Hi\u1ebfu has created a Review Comment on American Parks Trail end Rapid City",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"admin@gmail.com Hi\u1ebfu\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/review",
+    "idNotification": "a33ee527-3803-47a7-8846-99f70b63ccdc",
+    "socket": null
+}  
+[2024-05-10 03:16:07] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "admin@gmail.com Hi\u1ebfu has created a Review Comment on American Parks Trail end Rapid City",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/review",
+    "idNotification": "9f4d36cf-d05e-4b9b-a044-ea63356166b5",
+    "userId": 1,
+    "socket": null
+}  
+[2024-05-10 03:31:42] production.ERROR: Non-static method App\BaseModel::findById() cannot be called statically {"userId":6,"exception":"[object] (Error(code: 0): Non-static method App\\BaseModel::findById() cannot be called statically at C:\\xampp\\htdocs\\mytravel.2.4.0\\modules\\User\\Admin\\UserController.php:241)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): Modules\\User\\Admin\\UserController->store(Object(Illuminate\\Http\\Request), '6')
+#1 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('store', Array)
+#2 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(260): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(Modules\\User\\Admin\\UserController), 'store')
+#3 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#4 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Routing\\Route->run()
+#5 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\Dashboard.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\Dashboard->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RequireChangePassword.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RequireChangePassword->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\SetLanguageForAdmin.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\SetLanguageForAdmin->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\SetCurrentCurrency.php(48): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\SetCurrentCurrency->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\HideDebugbar.php(32): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\HideDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RedirectForMultiLanguage.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RedirectForMultiLanguage->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#18 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#26 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#33 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#34 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#35 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#36 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#37 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#38 C:\\xampp\\htdocs\\mytravel.2.4.0\\themes\\Base\\Core\\Middleware\\RunUpdater.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Themes\\Base\\Core\\Middleware\\RunUpdater->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\barryvdh\\laravel-debugbar\\src\\Middleware\\InjectDebugbar.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Barryvdh\\Debugbar\\Middleware\\InjectDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RedirectToInstaller.php(40): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RedirectToInstaller->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#59 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#60 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#61 C:\\xampp\\htdocs\\mytravel.2.4.0\\public\\index.php(78): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#62 C:\\xampp\\htdocs\\mytravel.2.4.0\\server.php(21): require_once('C:\\\\xampp\\\\htdocs...')
+#63 {main}
+"} 
+[2024-05-10 03:32:38] production.ERROR: Non-static method App\BaseModel::findById() cannot be called statically {"userId":6,"exception":"[object] (Error(code: 0): Non-static method App\\BaseModel::findById() cannot be called statically at C:\\xampp\\htdocs\\mytravel.2.4.0\\modules\\User\\Admin\\UserController.php:241)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): Modules\\User\\Admin\\UserController->store(Object(Illuminate\\Http\\Request), '6')
+#1 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('store', Array)
+#2 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(260): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(Modules\\User\\Admin\\UserController), 'store')
+#3 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#4 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Routing\\Route->run()
+#5 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\Dashboard.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\Dashboard->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RequireChangePassword.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RequireChangePassword->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\SetLanguageForAdmin.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\SetLanguageForAdmin->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\SetCurrentCurrency.php(48): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\SetCurrentCurrency->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\HideDebugbar.php(32): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\HideDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RedirectForMultiLanguage.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RedirectForMultiLanguage->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#18 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#26 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#33 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#34 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#35 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#36 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#37 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#38 C:\\xampp\\htdocs\\mytravel.2.4.0\\themes\\Base\\Core\\Middleware\\RunUpdater.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Themes\\Base\\Core\\Middleware\\RunUpdater->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\barryvdh\\laravel-debugbar\\src\\Middleware\\InjectDebugbar.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Barryvdh\\Debugbar\\Middleware\\InjectDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RedirectToInstaller.php(40): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RedirectToInstaller->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#59 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#60 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#61 C:\\xampp\\htdocs\\mytravel.2.4.0\\public\\index.php(78): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#62 C:\\xampp\\htdocs\\mytravel.2.4.0\\server.php(21): require_once('C:\\\\xampp\\\\htdocs...')
+#63 {main}
+"} 
+[2024-05-10 03:34:16] production.ERROR: Non-static method App\BaseModel::findById() cannot be called statically {"userId":6,"exception":"[object] (Error(code: 0): Non-static method App\\BaseModel::findById() cannot be called statically at C:\\xampp\\htdocs\\mytravel.2.4.0\\modules\\User\\Admin\\UserController.php:241)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): Modules\\User\\Admin\\UserController->store(Object(Illuminate\\Http\\Request), '5')
+#1 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('store', Array)
+#2 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(260): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(Modules\\User\\Admin\\UserController), 'store')
+#3 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#4 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Routing\\Route->run()
+#5 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\Dashboard.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\Dashboard->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RequireChangePassword.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RequireChangePassword->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\SetLanguageForAdmin.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\SetLanguageForAdmin->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\SetCurrentCurrency.php(48): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\SetCurrentCurrency->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\HideDebugbar.php(32): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\HideDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#16 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RedirectForMultiLanguage.php(58): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RedirectForMultiLanguage->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#18 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#26 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#33 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#34 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#35 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#36 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#37 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#38 C:\\xampp\\htdocs\\mytravel.2.4.0\\themes\\Base\\Core\\Middleware\\RunUpdater.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Themes\\Base\\Core\\Middleware\\RunUpdater->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\barryvdh\\laravel-debugbar\\src\\Middleware\\InjectDebugbar.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Barryvdh\\Debugbar\\Middleware\\InjectDebugbar->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#46 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#47 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\xampp\\htdocs\\mytravel.2.4.0\\app\\Http\\Middleware\\RedirectToInstaller.php(40): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): App\\Http\\Middleware\\RedirectToInstaller->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#56 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#57 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#58 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#59 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#60 C:\\xampp\\htdocs\\mytravel.2.4.0\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#61 C:\\xampp\\htdocs\\mytravel.2.4.0\\public\\index.php(78): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#62 C:\\xampp\\htdocs\\mytravel.2.4.0\\server.php(21): require_once('C:\\\\xampp\\\\htdocs...')
+#63 {main}
+"} 
+[2024-05-10 08:39:44] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Castello Casole Hotel - Copy has been deleted by Vendor 01",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=16",
+    "idNotification": "08f2fac5-42dd-4acc-af9a-7b00fa75a21c",
+    "socket": null
+}  
+[2024-05-10 08:39:49] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Redac Gateway Hotel - Copy has been deleted by Vendor 01",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=15",
+    "idNotification": "58247f42-9dce-4482-a7db-c579486d7f8d",
+    "socket": null
+}  
+[2024-05-10 08:39:52] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Parian Holiday Villas - Copy - Copy has been deleted by Vendor 01",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=14",
+    "idNotification": "6e58644f-47cd-4bd0-a408-205b7a3c6386",
+    "socket": null
+}  
+[2024-05-10 08:39:55] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Parian Holiday Villas - Copy - Copy has been deleted by Vendor 01",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=13",
+    "idNotification": "74d57c5a-23f2-4e6a-903c-6db7bb5bb5c3",
+    "socket": null
+}  
+[2024-05-10 08:40:24] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Your has created a plan request",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/user\/my-plan",
+    "idNotification": "558f257d-46b2-4084-a3c4-4ce2bd7ab337",
+    "userId": 1,
+    "socket": null
+}  
+[2024-05-10 08:40:24] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vendor 01 has created a plan request",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/user\/plan-report",
+    "idNotification": "710dd27c-8aa9-424e-961d-91552590c4bf",
+    "socket": null
+}  
+[2024-05-10 08:41:52] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Parian Holiday Villas - Copy has been deleted by Vendor 01",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=12",
+    "idNotification": "eaf6eaf7-8aba-4bac-baf6-7a4d3bb0d91a",
+    "socket": null
+}  
+[2024-05-10 08:41:57] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Parian Holiday Villas was updated to Draft by Vendor 01",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=9",
+    "idNotification": "6a5149e9-adea-458c-891a-aca2665e3b0a",
+    "socket": null
+}  
+[2024-05-10 08:45:27] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Parian Holiday Villas was updated to Publish by luonghieu",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"luonghieu\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=9",
+    "idNotification": "ccbb20bb-010e-459e-9ac1-10ea2c0f6024",
+    "socket": null
+}  
+[2024-05-10 08:45:27] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Parian Holiday Villas was updated to Publish by luonghieu",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/user\/hotel?id=9",
+    "idNotification": "79cc88ca-8f36-417c-98cd-cae78b14e822",
+    "userId": 1,
+    "socket": null
+}  
+[2024-05-10 08:56:12] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "Your plan request has been approved",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/user\/my-plan",
+    "idNotification": "9bc890a1-c39f-46f3-834f-790c3277c1fe",
+    "userId": 1,
+    "socket": null
+}  
+[2024-05-10 08:56:12] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Vendor 01 plan request has been approved",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/user\/plan?s=1",
+    "idNotification": "10a20625-e20d-4d55-ad27-997f4eae2477",
+    "socket": null
+}  
+[2024-05-10 14:11:53] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "luonghieu has created hotel abc",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"luonghieu\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel\/edit\/17",
+    "idNotification": "0bce1670-3776-4eeb-8529-558d9d04c0cc",
+    "socket": null
+}  
+[2024-05-10 14:12:35] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "abc has been deleted by luonghieu",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"luonghieu\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/hotel?id=17",
+    "idNotification": "812702bc-ad6c-4aaf-9eb9-700cfda7125d",
+    "socket": null
+}  
+[2024-05-10 14:12:35] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-5] with payload:
+{
+    "message": "abc has been deleted by luonghieu",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"victoria\">",
+    "link": "http:\/\/127.0.0.1:8000\/user\/hotel?id=17",
+    "idNotification": "5ce7aacb-a103-44c0-8946-58704fba4922",
+    "userId": 5,
+    "socket": null
+}  
+[2024-05-10 16:18:45] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: hnl@gmail.com
+Subject: [My Travel] Verify Register
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 16:18:45 +0000
+Message-ID: <30daac69788026316adcb91d92b5138a@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+                <div class=3D"b-container">
+        <div class=3D"b-panel">
+           =20
+            <h1>Hello!</h1>
+            <p>Please click the button to verify your email address!</p>
+            <p style=3D"text-align: center"><a style=3D"border-radius: 3px;
+                color: #fff;
+                display: inline-block;
+                text-decoration: none;
+                background-color: #3490dc;
+                border-top: 10px solid #3490dc;
+                border-right: 18px solid #3490dc;
+                border-bottom: 10px solid #3490dc;
+                border-left: 18px solid #3490dc;" href=3D"http://127.0.0.1:=
+8000/email/verify/9/065942c98a11296f9334b926e407deba16fc75dd?expires=3D1715=
+361522&signature=3Dc9e34a8c667a2a98414ddeeb453aacb051309446960c4e948bfd5b70=
+dc1ab5a9">Verify Email Address</a></p>
+            <p>If you did not create account, no further action is required=
+.</p>
+            <p>Regards,<br>My Travel</p>
+        </div>
+    </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 16:18:46] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: hnl@gmail.com
+Subject: Linh Ha has registered.
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 16:18:46 +0000
+Message-ID: <3c7c25a4c1ea82c2f8e612979160ff08@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+                <div class=3D"b-container">
+        <div class=3D"b-panel">
+            <h1 style=3D"text-align: center">Welcome!</h1>
+                    <h3>Hello Linh Ha</h3>
+                    <p>Thank you for signing up with My Travel! We hope you=
+ enjoy your time with us.</p>
+                    <p>Regards,</p>
+                    <p>My Travel</p>
+        </div>
+    </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 16:18:46] production.DEBUG: From: My Travel <contact@mytravel.com>
+To: contact@mytravel.com
+Subject: Linh Ha has registered.
+MIME-Version: 1.0
+Date: Fri, 10 May 2024 16:18:46 +0000
+Message-ID: <c04a7756f8e1974a312fb60f6d4cbe49@mytravel.com>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <title></title>
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <link rel=3D'stylesheet' id=3D'google-font-css-css'  href=3D'https:=
+//fonts.googleapis.com/css?family=3DPoppins%3A400%2C500%2C600' type=3D'text=
+/css' media=3D'all' />
+        <style>
+            .b-email-wrap{
+                background: #ebeef2;
+                padding: 40px 0px;
+                color: #1A2B48;
+                font-size: 14px;
+                font-family: 'Poppins', sans-serif !important;
+                font-weight: normal;
+                line-height: 1.5;
+                overflow-x: hidden;
+                margin: 0px;
+            }
+            .b-header{
+                background: #5291fa;
+                padding: 30px;
+                color: white;
+            }
+            .b-header .site-title,
+            .b-header h1,
+            .b-header h2,
+            .b-header h3,
+            .b-header h4,
+            .b-header h5,
+            .b-header p
+            {
+                margin:0px;
+                display: block;
+                text-align: center;
+            }
+            .b-container{
+                max-width: 600px;
+                margin: 0px auto;
+            }
+
+            .b-panel{
+                border: 1px solid rgba(0, 0, 0, 0.1);
+                margin-bottom: 30px;
+                padding: 30px;
+                background: white;
+            }
+            .b-panel .b-panel{
+                padding: 0px;
+                box-shadow: none;
+            }
+            .b-panel-title{
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 500;
+            }
+            .b-table-wrap{
+                overflow-x:auto;
+            }
+            .b-table{
+                width: 100%;
+            }
+            .b-table tr td,
+            .b-table .b-tr,
+            .b-table tr th{
+                padding: 10px;
+            }
+            .b-table .b-tr{
+                clear: both;
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table .b-tr:after{
+                display: table;
+                clear: both;
+                content:'';
+            }
+            .b-table tr td{
+                border-bottom: 1px solid #EAEEF3;
+            }
+            .b-table tbody tr:nth-child(even) td{
+                /*background: #f5f7fd;*/
+            }
+            .b-table tbody tr td.label,
+            .b-table .b-tr .label{
+                font-weight: 500;
+            }
+            .b-table tbody tr td.val,
+            .b-table .b-tr .val{
+                text-align: right;
+            }
+
+            .b-table tbody tr td.val p,
+            .b-table .b-tr .val p{
+                padding: 0;
+                margin: 0;
+            }
+
+            .b-table .b-tr .label,
+            .b-table .b-tr .val{
+                float: left;
+                width: 50%;
+            }
+            .pricing-list{
+                text-align: left;
+                margin: 0px;
+                padding: 0px;
+                list-style: none;
+            }
+            .pricing-list td{
+                padding: 7px 0px;
+            }
+            .pricing-list td .val{
+                text-align: right;
+            }
+            .pricing-list .no-flex{
+                display: block;
+            }
+            .email-headline{
+                margin-top: 0px;
+            }
+
+            .text-center{
+                text-align: center;
+            }
+
+            .btn{
+                display: inline-block;
+                color: #212529;
+                text-align: center;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                background-color: #ebeef2;
+                line-height: 1.5;
+                border: none;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+                border-radius: 3px;
+                padding: 7px 20px;
+                -webkit-transition: background .2s, color .2s;
+                transition: background .2s, color .2s;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+            }
+            .btn.btn-primary{
+
+                background: #5191FA;
+                color: white;
+            }
+            .mt20{
+                margin-top: 20px;
+            }
+            .no-padding{
+                padding: 0px;
+            }
+            .no-r-padding{
+                padding-right: 0px!important;
+            }
+            .fsz21{
+                font-size: 21px;
+            }
+            .no-b-border{
+                border-bottom: 0px!important;
+            }
+            @media screen and (max-width: 768px) {
+                .b-panel{
+                    padding: 15px;
+                }
+                .b-table tr td,
+                .b-table tr th{
+                    padding-right: 2px;
+                    padding-left: 2px;
+                }
+                .b-panel-title{
+                    font-size: 18px;
+                    font-weight: bold;
+                    margin-bottom: 15px;
+                }
+                .b-email-wrap{
+                    padding: 0px;
+                }
+
+                .b-table .b-tr .label,
+                .b-table .b-tr .val{
+                    float:none;
+                }
+
+                .b-table .b-tr .val{
+                    text-align: left;
+                }
+            }
+                    </style>
+    </head>
+    <body>
+        <div class=3D"b-email-wrap">
+            <div class=3D"" style=3D"">
+    <div class=3D"b-container">
+        <div class=3D"b-header">
+                        <h1 class=3D"site-title" style=3D"text-align: cente=
+r">My Travel</h1>
+        </div>
+    </div>
+</div>
+
+                <div class=3D"b-container">
+        <div class=3D"b-panel">
+            <h3>Hello Administrator</h3>
+                    <p>We have new registration</p>
+                    <p>Full name: Linh Ha</p>
+                    <p>Email: hnl@gmail.com</p>
+                    <p>Regards,</p>
+                    <p>My Travel</p>
+        </div>
+    </div>
+
+            <div class=3D"b-footer" style=3D"margin-top: 0px;">
+    <div class=3D"b-container">
+        <p class=3D"" style=3D"text-align: center">&copy; 2021 My Travel. A=
+ll rights reserved</p>
+    </div>
+</div>        </div>
+    </body>
+</html>
+  
+[2024-05-10 16:18:50] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Linh Ha has been registered",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"Linh Ha\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/user?s=9",
+    "idNotification": "7ecc6acc-3102-4143-b386-3ab3d9448992",
+    "socket": null
+}  
+[2024-05-10 16:30:34] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "luonghieu has created tour abc",
+    "avatar": "<img class=\"image-responsive\" src=\"http:\/\/127.0.0.1:8000\/images\/avatar.png\" alt=\"luonghieu\">",
+    "link": "http:\/\/127.0.0.1:8000\/admin\/module\/tour\/edit\/17",
+    "idNotification": "5531d256-b49d-4c02-a784-9cfa4bfde01b",
+    "socket": null
+}  
